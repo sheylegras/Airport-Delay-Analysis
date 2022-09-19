@@ -1,7 +1,7 @@
 # **Airport Delay Analysis**
 A Python based project of arrival flight delay reasons as part of CareerFoundry Data Analysis immersion course.
 ## **Objective**
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The analysis team was tasked with performing an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+In 2021, The United States saw over 600 million travelers through the air. When traveling by air, preflight anxiety is something that many travelers face In this analysis we will explore airline on time statistics and delay data to provide travelers with insights of their expected travel experience. 
 ## **Data**
 The dataset for this project consist of 2020-2021 open source data on airline on time statistics and delay causes. Delay cause explanations can be found below. And the original data can be found [here.](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?20=E) 
 - Carrier: The cause of the cancellation or delay was due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.)
