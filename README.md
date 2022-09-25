@@ -2,7 +2,7 @@
 A Python based project of arrival flight delay reasons as part of CareerFoundry Data Analysis immersion course.
 ## **Objective**
 In 2021, The United States saw over 600 million travelers through the air. When traveling by air, preflight anxiety is something that many travelers face In this analysis we will explore airline on time statistics and delay data to provide travelers with insights of their expected travel experience. 
-## **Data Folder**
+## **Data**
 The dataset for this project consist of 2020-2021 open source data on airline on time statistics and delay causes. The original data can be found [here.](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?20=E) Json of US states was provided by CareerFoundry and can be found [here.](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) Time-series data used in the anlysis can be found [here.](https://data.nasdaq.com/data/EIA/STEO_ACTKFUS_M-airline-ticket-price-index-monthly) Supplemental data used to look at the historical view of % of total minutes delayed can be found [here.](https://www.bts.gov/content/delay-cause-year-percent-total-delay-minutes) Delay cause explanations can be found below. 
 - Carrier: The cause of the cancellation or delay was due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.)
 - Weather: Significant meteorological conditions (actual or forecasted) that, in the judgment of the carrier, delays or prevents the operation of a flight such as tornado, blizzard or hurricane.
@@ -16,6 +16,7 @@ The dataset for this project consist of 2020-2021 open source data on airline on
 - 6.4 Supervised Machine Learning/Autoregression
 - 6.5 Usupervised Machine Learnig/Kmeans clustering
 - 6.6 Sourcing and Analyzing Time-series Data
+- 6.7 Merging Historical Data
 ## **Tools**
 For this project Excel, the following Python tools and libraries, and Tableau were used:
 - Anaconda 3
@@ -25,4 +26,4 @@ For this project Excel, the following Python tools and libraries, and Tableau we
 - Folium for geospatial analysis
 - Sklearn for machine learning
 ## **Resources**
-The final presentation was completed in Tableau
+The final presentation of key findings was completed in [Tableau](https://public.tableau.com/app/profile/shey.legras/viz/AirlineDelayAnalysis_16637842402390/AirlineDelayAnalysis)
